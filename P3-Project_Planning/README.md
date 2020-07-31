@@ -7,8 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* [Child_Task_List](https://github.com/vaishupriya90/liftoff-assignments/blob/master/P3-Project_Planning/ChildTaskList.png)
 
 ### Project Tracker
 
