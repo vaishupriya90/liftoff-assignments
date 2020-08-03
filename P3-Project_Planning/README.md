@@ -7,12 +7,29 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-* [Child_Task_List](https://github.com/vaishupriya90/liftoff-assignments/blob/master/P3-Project_Planning/ChildTaskList.png)
+* Child Task List Page.
+[Child_Task_List](https://github.com/vaishupriya90/liftoff-assignments/blob/master/P3-Project_Planning/ChildTaskList.png)
+
+* Task creating Page.
+[Creating_Task](https://github.com/vaishupriya90/liftoff-assignments/blob/master/P3-Project_Planning/CreatingTask.png)
+
+* Login Page.
+[Login_Page](https://github.com/vaishupriya90/liftoff-assignments/blob/master/P3-Project_Planning/LoginPage.png)
+
+* Parent Dashboard Page
+[Parent_Dashboard](https://github.com/vaishupriya90/liftoff-assignments/blob/master/P3-Project_Planning/ParentDashboard.png)
+
+* Adding a new child in the parent login.
+[ParentLogin_AddingChild](https://github.com/vaishupriya90/liftoff-assignments/blob/master/P3-Project_Planning/ParentLogin_addingChild.png)
+
+* Child Dashboard.
+[Child_DashBoard](https://github.com/vaishupriya90/liftoff-assignments/blob/master/P3-Project_Planning/childLoginDashBoard.png)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+* Trello Account
+https://trello.com/b/0b4h6yix/kids-task-management-system
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/vaishupriya90/Kids_Task_Management
